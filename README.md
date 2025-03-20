@@ -1,0 +1,1 @@
+# Winmetadata4Affinity
